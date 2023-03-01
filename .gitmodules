@@ -1,0 +1,3 @@
+[submodule "sk"]
+	path = sk
+	url = https://github.com/thissya/sk.git
