@@ -1,9 +1,6 @@
 [submodule "sk"]
 	path = sk
 	url = https://github.com/thissya/sk.git
-[submodule "subdir"]
-	path = subdir
-	url = C:/Program Files/Git/subdir
 [submodule "thissya"]
 	path = thissya
 	url = https://github.com/thissya/thissya.git
